@@ -1,2 +1,2 @@
-# SubdomainScanner.py
+## python SubdomainScanner.py <URL>
  
